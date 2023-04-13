@@ -1,5 +1,5 @@
 Name: Fried Eggs
 Duration: 7 minutes
-Ingredients: Eggs, oil, salt, peper, Bacon
+Ingredients: Egg, oil, salt, peper, Bacon
 test test
 Preparation: Put the eggs in the pan with some oil and bacon, and wait.
